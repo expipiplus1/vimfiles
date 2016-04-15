@@ -1,0 +1,2 @@
+# vimfiles
+/home/abigail/.vim
