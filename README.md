@@ -1,2 +1,2 @@
 # vimfiles
-/home/abigail/.vim
+/home/abigail/.config/nvim
